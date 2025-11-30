@@ -1,0 +1,11 @@
+# International News Coverage / 國際新聞報道
+
+This section archives news reports from international media outlets, organized by language.
+本區塊收錄國際媒體的相關報道，按語言分類。
+
+## Languages / 語言分類
+
+- [**German (Deutsch)**](German/README.md)
+  - Tagesschau
+- [**Japanese (日本語)**](Japanese/Japan%20Times/Readme.md)
+  - Japan Times

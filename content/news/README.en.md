@@ -28,23 +28,16 @@ This section compiles news reports, feature articles, and official releases from
 
 ## International Media
 
+- [**SCMP (South China Morning Post)**](SCMP/Readme.md)
 - [**BBC UK**](BBC/Readme.md)
 - [**CNN**](CNN/Readme.md)
-- [**Japan Times**](Japan%20Times/Readme.md)
-- [**SCMP (South China Morning Post)**](SCMP/Readme.md)
 - [**Reuters**](Reuters/Readme.md)
 - [**AP**](AP/Readme.md)
-- [**AFP**](AFP/Readme.md) *(Pending)*
-- [**Bloomberg**](Bloomberg/Readme.md) *(Pending)*
-- [**New York Times**](New%20York%20Times/Readme.md) *(Pending)*
-- [**Washington Post**](Washington%20Post/Readme.md) *(Pending)*
-- [**Al Jazeera**](Al%20Jazeera/Readme.md) *(Pending)*
-- [**NHK**](NHK/Readme.md) *(Pending)*
 - [**ABC**](ABC/Readme.md)
 - [**Sky**](Sky/Readme.md)
 - [**The Guardian**](The%20Guardian/Readme.md)
 - [**The Sun**](The%20Sun/Readme.md)
-- [**German Media (Deutsche Medien)**](German/Readme.md)
+- [**Other International Coverage (German, Japanese, etc.)**](International/README.md)
 
 ## Official Information
 

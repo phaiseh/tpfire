@@ -58,6 +58,8 @@ plugins:
             Photos: 圖片紀錄
             Residents: 居民討論
             Docs: 政府文件
+            Citation: 如何引用
+            Contact: 聯絡我們
         - locale: en
           name: English
           build: true
@@ -75,3 +77,5 @@ nav:
   - Photos: photos/README.md
   - Residents: residents/README.md
   - Docs: docs/README.md
+  - Citation: citation/README.md
+  - Contact: contact/README.md

@@ -28,23 +28,16 @@
 
 ## 國際媒體 (International Media)
 
+- [**SCMP (South China Morning Post)**](SCMP/Readme.md)
 - [**BBC UK**](BBC/Readme.md)
 - [**CNN**](CNN/Readme.md)
-- [**Japan Times**](Japan%20Times/Readme.md)
-- [**SCMP (South China Morning Post)**](SCMP/Readme.md)
 - [**Reuters**](Reuters/Readme.md)
 - [**AP**](AP/Readme.md)
-- [**AFP**](AFP/Readme.md) *(待補)*
-- [**Bloomberg**](Bloomberg/Readme.md) *(待補)*
-- [**New York Times**](New%20York%20Times/Readme.md) *(待補)*
-- [**Washington Post**](Washington%20Post/Readme.md) *(待補)*
-- [**Al Jazeera**](Al%20Jazeera/Readme.md) *(待補)*
-- [**NHK**](NHK/Readme.md) *(待補)*
 - [**ABC (Australian Broadcasting Corporation)**](ABC/Readme.md)
 - [**Sky**](Sky/Readme.md)
 - [**The Guardian**](The%20Guardian/Readme.md)
 - [**The Sun**](The%20Sun/Readme.md)
-- [**German Media (Deutsche Medien)**](German/Readme.md)
+- [**Other International Coverage (German, Japanese, etc.)**](International/README.md)
 
 ## 官方資料 (Official Information)
 
