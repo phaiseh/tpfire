@@ -4,7 +4,7 @@
 
 請注意，當條款的中文版本與英文版本之間出現偏差或不一致時，應以英文版本為準。
 
-Please note that the English version shall prevail in case of discrepancy or inconsistency between the English version and the Chinese translation of the license.
+Please note that the English version shall prevail in case of discrepancy or inconsistency between the English version and the Chinese translation of the license
 ---
 
 ## 中文版本
@@ -39,7 +39,7 @@ Please note that the English version shall prevail in case of discrepancy or inc
 - **姓名標示** — 您必須給予適當表彰、提供指向本授權條款的連結，以及指出（本作品）是否已被變更。您可以任何合理方式為之，但不得以任何方式暗示授權人為您或您的使用方式背書。
 - **相同方式分享** — 若您重混、轉換本作品，或以本作品建立新作品，您必須以與本作品相同的授權條款來散布您的衍生作品。
 
-完整授權條款請參閱：https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-hant
+完整授權條款請參閱：<https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-hant>
 
 #### 建議標示方式
 
@@ -133,7 +133,7 @@ Under the following terms:
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
-Full license text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Full license text: <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
 
 #### Suggested Attribution
 
@@ -236,7 +236,7 @@ exhaustive, and do not form part of our licenses.
      material not subject to the license. This includes other CC-
      licensed material, or material used under an exception or
      limitation to copyright. More considerations for licensors:
-	wiki.creativecommons.org/Considerations_for_licensors
+ wiki.creativecommons.org/Considerations_for_licensors
 
      Considerations for the public: By using one of our public
      licenses, a licensor grants the public permission to use the
@@ -253,7 +253,7 @@ exhaustive, and do not form part of our licenses.
      Although not required by our licenses, you are encouraged to
      respect those requests where reasonable. More_considerations
      for the public:
-	wiki.creativecommons.org/Considerations_for_licensees
+ wiki.creativecommons.org/Considerations_for_licensees
 
 =======================================================================
 
@@ -268,7 +268,6 @@ acceptance of these terms and conditions, and the Licensor grants You
 such rights in consideration of benefits the Licensor receives from
 making the Licensed Material available under these terms and
 conditions.
-
 
 Section 1 -- Definitions.
 
@@ -332,7 +331,6 @@ Section 1 -- Definitions.
 
   k. You means the individual or entity exercising the Licensed Rights
      under this Public License. Your has a corresponding meaning.
-
 
 Section 2 -- Scope.
 
@@ -416,7 +414,6 @@ Section 2 -- Scope.
           licensing scheme. In all other cases the Licensor expressly
           reserves any right to collect such royalties.
 
-
 Section 3 -- License Conditions.
 
 Your exercise of the Licensed Rights is expressly made subject to the
@@ -484,7 +481,6 @@ following conditions.
           Measures to, Adapted Material that restrict exercise of the
           rights granted under the Adapter's License You apply.
 
-
 Section 4 -- Sui Generis Database Rights.
 
 Where the Licensed Rights include Sui Generis Database Rights that
@@ -505,7 +501,6 @@ apply to Your use of the Licensed Material:
 For the avoidance of doubt, this Section 4 supplements and does not
 replace Your obligations under this Public License where the Licensed
 Rights include other Copyright and Similar Rights.
-
 
 Section 5 -- Disclaimer of Warranties and Limitation of Liability.
 
@@ -535,7 +530,6 @@ Section 5 -- Disclaimer of Warranties and Limitation of Liability.
      possible, most closely approximates an absolute disclaimer and
      waiver of all liability.
 
-
 Section 6 -- Term and Termination.
 
   a. This Public License applies for the term of the Copyright and
@@ -564,7 +558,6 @@ Section 6 -- Term and Termination.
   d. Sections 1, 5, 6, 7, and 8 survive termination of this Public
      License.
 
-
 Section 7 -- Other Terms and Conditions.
 
   a. The Licensor shall not be bound by any additional or different
@@ -573,7 +566,6 @@ Section 7 -- Other Terms and Conditions.
   b. Any arrangements, understandings, or agreements regarding the
      Licensed Material not stated herein are separate from and
      independent of the terms and conditions of this Public License.
-
 
 Section 8 -- Interpretation.
 
@@ -597,7 +589,6 @@ Section 8 -- Interpretation.
      as a limitation upon or waiver of any privileges and immunities
      that apply to the Licensor or You, including from the legal
      processes of any jurisdiction or authority.
-
 
 =======================================================================
 
