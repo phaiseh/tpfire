@@ -246,3 +246,33 @@ Aborting
 2025-11-30 01:26:48 | INFO     | Running scraper...
 2025-11-30 01:26:49 | ERROR    | Scraper error: Expecting property name enclosed in double quotes: line 5535 column 1 (char 376524)
 2025-11-30 01:26:49 | INFO     | Committing changes...
+2025-11-30 01:26:49 | INFO     | Committed: chore(scraper): auto-scrape 2025-11-30 01:26
+2025-11-30 01:26:49 | ERROR    | Command failed: git add /home/hansonwen/Hong-Kong-Fire-Documentary/logs/scraper.log
+2025-11-30 01:26:49 | ERROR    | stderr: The following paths are ignored by one of your .gitignore files:
+logs
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+
+2025-11-30 01:26:49 | INFO     | Sync cycle complete
+2025-11-30 01:26:49 | INFO     | ----------------------------------------
+2025-11-30 01:26:49 | INFO     | Starting PR cycle...
+2025-11-30 01:26:49 | INFO     | Managing PR...
+2025-11-30 01:26:50 | INFO     | Pushing to branch 'scraper-updates'...
+2025-11-30 01:29:08 | INFO     | ============================================================
+2025-11-30 01:29:08 | INFO     | News Scraper Daemon Starting
+2025-11-30 01:29:08 | INFO     | Fork: Hilo-Hilo/Hong-Kong-Fire-Documentary
+2025-11-30 01:29:08 | INFO     | Upstream: Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+2025-11-30 01:29:08 | INFO     | Sync interval: 10 minutes
+2025-11-30 01:29:08 | INFO     | PR interval: 60 minutes
+2025-11-30 01:29:08 | INFO     | ============================================================
+2025-11-30 01:29:09 | INFO     | gh CLI authenticated
+2025-11-30 01:29:09 | INFO     | Setting up git remotes...
+2025-11-30 01:29:09 | INFO     | Configured origin remote
+2025-11-30 01:29:09 | INFO     | ----------------------------------------
+2025-11-30 01:29:09 | INFO     | Starting sync cycle...
+2025-11-30 01:29:09 | INFO     | Syncing with upstream...
+2025-11-30 01:29:09 | INFO     | Already up to date with upstream
+2025-11-30 01:29:09 | INFO     | Running scraper...
+2025-11-30 01:29:09 | ERROR    | Scraper error: Expecting property name enclosed in double quotes: line 5535 column 1 (char 376524)
+2025-11-30 01:29:09 | INFO     | Committing changes...
