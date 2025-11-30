@@ -229,3 +229,113 @@ Aborting
 2025-11-29 04:10:25 | INFO     | Starting sync cycle...
 2025-11-29 04:10:25 | INFO     | Syncing with upstream...
 2025-11-29 04:10:25 | INFO     | Behind upstream by 18 commits, merging...
+2025-11-30 01:26:48 | INFO     | ============================================================
+2025-11-30 01:26:48 | INFO     | News Scraper Daemon Starting
+2025-11-30 01:26:48 | INFO     | Fork: Hilo-Hilo/Hong-Kong-Fire-Documentary
+2025-11-30 01:26:48 | INFO     | Upstream: Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+2025-11-30 01:26:48 | INFO     | Sync interval: 10 minutes
+2025-11-30 01:26:48 | INFO     | PR interval: 60 minutes
+2025-11-30 01:26:48 | INFO     | ============================================================
+2025-11-30 01:26:48 | INFO     | gh CLI authenticated
+2025-11-30 01:26:48 | INFO     | Setting up git remotes...
+2025-11-30 01:26:48 | INFO     | Configured origin remote
+2025-11-30 01:26:48 | INFO     | ----------------------------------------
+2025-11-30 01:26:48 | INFO     | Starting sync cycle...
+2025-11-30 01:26:48 | INFO     | Syncing with upstream...
+2025-11-30 01:26:48 | INFO     | Already up to date with upstream
+2025-11-30 01:26:48 | INFO     | Running scraper...
+2025-11-30 01:26:49 | ERROR    | Scraper error: Expecting property name enclosed in double quotes: line 5535 column 1 (char 376524)
+2025-11-30 01:26:49 | INFO     | Committing changes...
+2025-11-30 01:26:49 | INFO     | Committed: chore(scraper): auto-scrape 2025-11-30 01:26
+2025-11-30 01:26:49 | ERROR    | Command failed: git add /home/hansonwen/Hong-Kong-Fire-Documentary/logs/scraper.log
+2025-11-30 01:26:49 | ERROR    | stderr: The following paths are ignored by one of your .gitignore files:
+logs
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+
+2025-11-30 01:26:49 | INFO     | Sync cycle complete
+2025-11-30 01:26:49 | INFO     | ----------------------------------------
+2025-11-30 01:26:49 | INFO     | Starting PR cycle...
+2025-11-30 01:26:49 | INFO     | Managing PR...
+2025-11-30 01:26:50 | INFO     | Pushing to branch 'scraper-updates'...
+2025-11-30 01:29:08 | INFO     | ============================================================
+2025-11-30 01:29:08 | INFO     | News Scraper Daemon Starting
+2025-11-30 01:29:08 | INFO     | Fork: Hilo-Hilo/Hong-Kong-Fire-Documentary
+2025-11-30 01:29:08 | INFO     | Upstream: Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+2025-11-30 01:29:08 | INFO     | Sync interval: 10 minutes
+2025-11-30 01:29:08 | INFO     | PR interval: 60 minutes
+2025-11-30 01:29:08 | INFO     | ============================================================
+2025-11-30 01:29:09 | INFO     | gh CLI authenticated
+2025-11-30 01:29:09 | INFO     | Setting up git remotes...
+2025-11-30 01:29:09 | INFO     | Configured origin remote
+2025-11-30 01:29:09 | INFO     | ----------------------------------------
+2025-11-30 01:29:09 | INFO     | Starting sync cycle...
+2025-11-30 01:29:09 | INFO     | Syncing with upstream...
+2025-11-30 01:29:09 | INFO     | Already up to date with upstream
+2025-11-30 01:29:09 | INFO     | Running scraper...
+2025-11-30 01:29:09 | ERROR    | Scraper error: Expecting property name enclosed in double quotes: line 5535 column 1 (char 376524)
+2025-11-30 01:29:09 | INFO     | Committing changes...
+2025-11-30 01:29:09 | INFO     | Committed: chore(scraper): auto-scrape 2025-11-30 01:29
+2025-11-30 01:29:09 | ERROR    | Command failed: git add /home/hansonwen/Hong-Kong-Fire-Documentary/logs/scraper.log
+2025-11-30 01:29:09 | ERROR    | stderr: The following paths are ignored by one of your .gitignore files:
+logs
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+
+2025-11-30 01:29:09 | INFO     | Sync cycle complete
+2025-11-30 01:29:09 | INFO     | ----------------------------------------
+2025-11-30 01:29:09 | INFO     | Starting PR cycle...
+2025-11-30 01:29:10 | INFO     | Managing PR...
+2025-11-30 01:29:10 | INFO     | Pushing to branch 'scraper-updates'...
+2025-11-30 01:30:27 | INFO     | ============================================================
+2025-11-30 01:30:27 | INFO     | News Scraper Daemon Starting
+2025-11-30 01:30:27 | INFO     | Fork: Hilo-Hilo/Hong-Kong-Fire-Documentary
+2025-11-30 01:30:27 | INFO     | Upstream: Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+2025-11-30 01:30:27 | INFO     | Sync interval: 10 minutes
+2025-11-30 01:30:27 | INFO     | PR interval: 60 minutes
+2025-11-30 01:30:27 | INFO     | ============================================================
+2025-11-30 01:30:30 | INFO     | gh CLI authenticated
+2025-11-30 01:30:30 | INFO     | Setting up git remotes...
+2025-11-30 01:30:30 | INFO     | Configured origin remote
+2025-11-30 01:30:30 | INFO     | ----------------------------------------
+2025-11-30 01:30:30 | INFO     | Starting sync cycle...
+2025-11-30 01:30:30 | INFO     | Syncing with upstream...
+2025-11-30 01:30:31 | INFO     | Already up to date with upstream
+2025-11-30 01:30:31 | INFO     | Running scraper...
+2025-11-30 01:30:31 | INFO     | Found 1 new URLs to scrape
+2025-11-30 01:30:39 | INFO     | Scraper results: 0 success, 1 failed
+2025-11-30 01:30:39 | INFO     | Committing changes...
+2025-11-30 01:30:39 | INFO     | Committed: chore(scraper): auto-scrape 2025-11-30 01:30
+2025-11-30 01:30:39 | ERROR    | Command failed: git add /home/hansonwen/Hong-Kong-Fire-Documentary/logs/scraper.log
+2025-11-30 01:30:39 | ERROR    | stderr: The following paths are ignored by one of your .gitignore files:
+logs
+hint: Use -f if you really want to add them.
+hint: Turn this message off by running
+hint: "git config advice.addIgnoredFile false"
+
+2025-11-30 01:30:39 | INFO     | Sync cycle complete
+2025-11-30 01:30:39 | INFO     | ----------------------------------------
+2025-11-30 01:30:39 | INFO     | Starting PR cycle...
+2025-11-30 01:30:40 | INFO     | Managing PR...
+2025-11-30 01:30:41 | INFO     | Pushing to branch 'scraper-updates'...
+2025-11-30 01:37:54 | INFO     | ============================================================
+2025-11-30 01:37:54 | INFO     | News Scraper Daemon Starting
+2025-11-30 01:37:54 | INFO     | Fork: Hilo-Hilo/Hong-Kong-Fire-Documentary
+2025-11-30 01:37:54 | INFO     | Upstream: Hong-Kong-Emergency-Coordination-Hub/Hong-Kong-Fire-Documentary
+2025-11-30 01:37:54 | INFO     | Sync interval: 10 minutes
+2025-11-30 01:37:54 | INFO     | PR interval: 60 minutes
+2025-11-30 01:37:54 | INFO     | ============================================================
+2025-11-30 01:37:54 | INFO     | gh CLI authenticated
+2025-11-30 01:37:54 | INFO     | Setting up git remotes...
+2025-11-30 01:37:54 | INFO     | Configured origin remote
+2025-11-30 01:37:59 | INFO     | gh CLI authenticated
+2025-11-30 01:37:59 | INFO     | ----------------------------------------
+2025-11-30 01:37:59 | INFO     | Running periodic health check...
+2025-11-30 01:37:59 | INFO     | gh CLI authenticated
+2025-11-30 01:37:59 | INFO     | Health check passed
+2025-11-30 01:37:59 | INFO     | ----------------------------------------
+2025-11-30 01:37:59 | INFO     | Starting sync cycle...
+2025-11-30 01:37:59 | INFO     | Syncing with upstream...
+2025-11-30 01:38:00 | INFO     | Behind upstream by 2 commits, merging...
